@@ -3,7 +3,7 @@ Hi, I'm William! I love building little web tools to make my life easier. I keep
 Here are a few open source projects that I use amd that have accepted my contributions:
 
 - [htmx](https://htmx.org): I added meta descriptions to many pages on the official website so when someone posts a link in Discord or social media, you get a useful description.
-- htpy: I improved parsing id/class CSS selector strings to remove unnecessary whitespace.
+- [htpy](https://htpy.dev): I improved parsing id/class CSS selector strings to remove unnecessary whitespace.
 
 Do you have a question about one of my archived repositories? [Open an issue on my personal repository][x] and we can talk about it.
 
